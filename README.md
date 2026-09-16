@@ -49,8 +49,8 @@ Nima().say_hi()
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nimanazari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimanazari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="langs"/>
+<img height="195" src="assets/stats.svg" alt="stats"/>
+<img height="195" src="assets/langs.svg" alt="langs"/>
 
 <br/><br/>
 
@@ -58,11 +58,11 @@ Nima().say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nimanazari&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=f472b6&area=true&area_color=8b5cf6" width="95%" alt="activity graph"/>
+<img src="assets/activity.svg" width="95%" alt="activity graph"/>
 
 <br/><br/>
 
-<a href="https://github.com/nimanazari"><img src="https://github-profile-trophy.vercel.app/?username=nimanazari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies"/></a>
+<a href="https://github.com/nimanazari"><img src="assets/trophies.svg" alt="trophies"/></a>
 
 </div>
 
@@ -86,8 +86,8 @@ Nima().say_hi()
 
 <div align="center">
 
-<a href="https://github.com/nimanazari/smarthome-vacuumleague"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nimanazari&repo=smarthome-vacuumleague&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f472b6&text_color=c9d1d9" alt="vacuumleague"/></a>
-<a href="https://github.com/nimanazari/smarthome-teams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nimanazari&repo=smarthome-teams&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f472b6&text_color=c9d1d9" alt="smarthome-teams"/></a>
+<a href="https://github.com/nimanazari/smarthome-vacuumleague"><img src="assets/pin-smarthome-vacuumleague.svg" alt="vacuumleague"/></a>
+<a href="https://github.com/nimanazari/smarthome-teams"><img src="assets/pin-smarthome-teams.svg" alt="smarthome-teams"/></a>
 
 </div>
 
