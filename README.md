@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nima%20Nazari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%E2%80%A2%20Robotics%20%E2%80%A2%20Smart%20Home%20%E2%80%A2%20Games&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nima%20Nazari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Robotics%20%7C%20Smart%20Home%20%7C%20Games&descAlignY=60&descSize=20" width="100%"/>
 
 <a href="https://github.com/nimanazari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nima+%F0%9F%91%8B;I+build+robots+%26+smart+things+%F0%9F%A4%96;Python+%E2%80%A2+JavaScript+%E2%80%A2+IoT;Turning+ideas+into+code+%E2%9C%A8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nima;I+build+robots+%26+smart+things;Python+%2F+JavaScript+%2F+IoT;Turning+ideas+into+code" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 
 <br/>
 
-## 🚀 About Me
+## About Me
 
 ```python
 class Nima:
@@ -25,7 +25,7 @@ class Nima:
         self.role     = "Developer & Maker"
         self.focus    = ["Robotics", "Smart Home", "Game Dev", "Automation"]
         self.stack    = ["Python", "JavaScript", "IoT"]
-        self.fun_fact = "I make vacuum robots compete in a league 🏆"
+        self.fun_fact = "I make vacuum robots compete in a league"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something cool.")
@@ -35,7 +35,7 @@ Nima().say_hi()
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Nima().say_hi()
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -68,7 +68,7 @@ Nima().say_hi()
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Nima().say_hi()
 
 <br/>
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -93,7 +93,7 @@ Nima().say_hi()
 
 <br/>
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
